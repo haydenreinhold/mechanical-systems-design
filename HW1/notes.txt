@@ -1,0 +1,4 @@
+No sheet format
+use A4 landscape ansi
+all lines black
+ansi format >tools >options >document properties >drafting standards
